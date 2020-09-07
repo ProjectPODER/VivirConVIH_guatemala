@@ -1,17 +1,14 @@
 ---
 layout: home
-title: Home
+title: Inicio
 permalink: /
 ---
 
-# THIS IS THE FIRST TITLE
+# Guatemala: la población indígena está expuesta al diagnóstico tardío del VIH
 
-This text is a paragraph.
-This won't be another paragraph, it will join the line above it.
+Aunque el 43,89% de su población es indígena, el país no tiene una estrategia nacional de respuesta al VIH dirigida a los pueblos originarios y que considere la atención en idiomas maternos. Este es uno de los factores que hace que las personas que más tardan en llegar a los servicios médicos y al diagnóstico sean indígenas. Cuando lo logran, muchos tienen un estado avanzado del virus que ha afectado significativamente su sistema inmunológico.
 
-This will be another paragraph, as it has a blank line above it.
-
-[Website version](https://towerbuilder.projectpoder.org/)
-[Website iframe version](https://towerbuilder.projectpoder.org/?iframe)
-[Visualization iframe](https://towerbuilder.projectpoder.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.projectpoder.org/iframe-slider/)
+[Reportaje](/2020/09/22/reportaje.html)
+[Entrevista](/entrevista/)
+[Testimonios](/testimonios/)
+[Contratos](/contratos/)
