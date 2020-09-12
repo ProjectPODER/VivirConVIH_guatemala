@@ -4,8 +4,6 @@ title: "Guatemala: la población indígena está expuesta al diagnóstico tardí
 author: "Daniel Villatoro"
 ---
 
-Aunque el 43,89% de su población es indígena, el país no tiene una estrategia nacional de respuesta al VIH dirigida a los pueblos originarios y que considere la atención en idiomas maternos. Este es uno de los factores que hace que las personas que más tardan en llegar a los servicios médicos y al diagnóstico sean indígenas. Cuando lo logran, muchos tienen un estado avanzado del virus que ha afectado significativamente su sistema inmunológico. 
-
 Una carta anónima reveló hace unos meses el diagnóstico como VIH positivo de Valerio*, un joven indígena Q’anjob’al que vive en uno de los municipios más alejados de la Ciudad de Guatemala, cercano a la frontera con México. Esa carta se compartió en redes sociales junto a su foto y llegó hasta los diferentes espacios comunitarios en los que él participaba e incluso a la radio local.
  
 Valerio se enteró de que su estatus de portador del VIH era de escrutinio público cuando un locutor de esa radio le llamó para preguntarle al respecto. “Luego de esto me quise suicidar y salí del municipio donde vivía para trabajar lejos”, cuenta. Además de este episodio de acoso y discriminación, que se sumó a otras amenazas por su condición de seropositivo, tiene dificultades para acceder a su tratamiento con antirretrovirales. Cada tres meses debe viajar seis horas para recibir sus medicinas en el Hospital Regional Occidente, en Quetzaltenango. La falta de unidades de atención para personas con VIH en el centro de salud donde vive, lo obliga a realizar este viaje incluso ahora en la pandemia. 
@@ -14,15 +12,9 @@ Otros pacientes indígenas tienen en sus idiomas un limitante adicional para acc
  
 En el occidente del país conviven diversas comunidades lingüísticas. El Mam, Q'anjob'al, Awakateko, y Kiché son algunos de los idiomas en los que la población maya se comunica. Asavide apoya la atención a personas con VIH en Malacatán, en San Marcos, en donde el Mam es el idioma más común. 
  
-Al menos el 43% de quienes habitan Guatemala son indígenas y el 29% tiene como 
-idioma materno uno de origen maya, sin embargo, las estrategias de respuesta al VIH
-suelen ignorar a este sector de la población y a las lenguas que preservan.
+Al menos el 43% de quienes habitan Guatemala son indígenas y el 29% tiene como idioma materno uno de origen maya, sin embargo, las estrategias de respuesta al VIH suelen ignorar a este sector de la población y a las lenguas que preservan.
  
-En el país no existe una estrategia nacional específica que considere el uso de idiomas 
-mayas para brindar servicios de salud. Ello tiene una consecuencia grave ya que las
-personas que más tarde llegan a los servicios de VIH son indígenas, explica Isaí Vela,
-coordinador de programas de salud de la Asociación IDEI, enfocada en la atención en
-salud sexual integral con comunidades indígenas. 
+En el país no existe una estrategia nacional específica que considere el uso de idiomas mayas para brindar servicios de salud. Ello tiene una consecuencia grave, ya que las personas que más tarde llegan a los servicios de VIH son indígenas, explica Isaí Vela, coordinador de programas de salud de la Asociación IDEI, enfocada en la atención en salud sexual integral con comunidades indígenas. 
  
  -¿Cómo se dice VIH en Q’anjob’al?, le pregunto a Valerio.
 -Il Yab'il
@@ -34,7 +26,7 @@ salud sexual integral con comunidades indígenas.
 
 Un estudio científico de 2018 comparó las barreras que enfrentan en el occidente del país las poblaciones clave en el abordaje de prevención del VIH (hombres gays, bisexuales, y que tienen sexo con otros hombres; así como mujeres trans) y concluyó que las personas de este grupo que son indígenas enfrentan en un 86% más barreras para el tratamiento y pruebas de VIH que el resto de poblaciones cuyas dificultades llegan al 67%. 
  
-Estas barreras de acceso inciden en las pocas oportunidades de las personas indígenas para obtener tratamiento y asistencia médica antes de que su sistema inmunológico se vea tan deteriorado que se considere VIH avanzado o Sida.
+Estas barreras de acceso inciden en las pocas oportunidades de las personas indígenas para obtener tratamiento y asistencia médica antes de que su sistema inmunológico se vea tan deteriorado que se considere VIH avanzado o sida.
  
 Guatemala es el país de Latinoamérica con más casos de VIH avanzado, con indicadores más graves que distintos países de África como Uganda, Etiopía o Ruanda, según los datos oficiales. Esta situación es alarmante en el 65% de las personas indígenas que obtuvieron un diagnóstico positivo de VIH ya que todas se encuentran en un estado avanzado del virus, lo que afecta gravemente su sistema inmunológico, según un estudio de GAFFI y la Asociación de Salud Integral.
  
@@ -52,7 +44,7 @@ En Guatemala viven alrededor de 47.284 personas con VIH. De este total, 17.751 p
  
 El país maneja tres esquemas de tratamiento en los que se combinan antirretrovirales. En el caso de que una persona deje de tomar estos medicamentos por tres meses, esto puede provocar una mutación en el virus que implique cambiar de esquema para combatirlo. Por ello, existe la recomendación de que en cada visita a las Unidades de Atención Integral (UAI) una persona con VIH reciba tres meses de tratamiento.
  
-Sin embargo, el COVID-19 ha hecho que el acceso a los medicamentos para el VIH sea más difícil en Guatemala. El acatamiento de las medidas de distanciamiento social en algunas zonas del país provocó el desabastecimiento de antirretrovirales. Por ello, en vez de brindar el tratamiento de tres meses como se recomienda, se estuvo entregando medicamentos por un mes e incluso por solo dos semanas debido a la escasez. La prohibición para circular entre departamentos también afectó a las personas con VIH que seguían tratamiento en una UAI ubicada en un departamento diferente al que viven. 
+Sin embargo, la covid-19 ha hecho que el acceso a los medicamentos para el VIH sea más difícil en Guatemala. El acatamiento de las medidas de distanciamiento social en algunas zonas del país provocó el desabastecimiento de antirretrovirales. Por ello, en vez de brindar el tratamiento de tres meses como se recomienda, se estuvo entregando medicamentos por un mes e incluso por solo dos semanas debido a la escasez. La prohibición para circular entre departamentos también afectó a las personas con VIH que seguían tratamiento en una UAI ubicada en un departamento diferente al que viven. 
  
 Frente a las dificultades que la pandemia impuso a las personas con VIH, las Unidades de Atención y los programas de apoyo a pacientes seropositivos tuvieron que idear nuevas maneras de distribuir los medicamentos especialmente en las zonas más alejadas, en donde viven las poblaciones indígenas. Se han realizado envíos a domicilios a través de sistemas privados de transporte de encomiendas y de jornadas de distribución periódicas. “Esta pandemia evidencia la necesidad de descentralizar la atención de los pacientes y darla cerca de los lugares en donde viven”, señala Isaí Vela de la Asociación IDEI.  
  
