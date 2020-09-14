@@ -1,13 +1,18 @@
 ---
 title: Slide 2
-audio: JUAN-CARLOS-CHUMACERO-TARIJA.mp3
+audio: Versión en español 2.ogg
+audio2: Versión Qanjobal.ogg
 ---
 
-# Juan Carlos Chumacero
-### Representante de RedBol en Tarija
+# Joven q’anjobal, 20 años
 
-Tarija es una ciudad pequeña y el tabú de hablar sobre un diagnóstico VIH positivo aún es muy grande. Yo soy una persona pública, no tengo miedo de decir que vivo con el VIH, pero hay otros compañeros que no pueden hacer lo mismo y se ven obligados a pasar por algunas dificultades, especialmente para acceder a sus tratamientos.
+Soy originario del norte de Huehuetenango, a ocho horas y media de camino en bus. Pertenezco a la diversidad sexual y soy positivo de VIH. Por mi orientación sexual, muchas personas me han discriminado, pero yo sé que soy una persona con valor y con derechos, siempre he defendido eso, todo lo que soy. 
 
-Lamentablemente, en Tarija todavía hay un estigma sobre las personas que viven con VIH y, en medio de los controles por la pandemia, es muy complicado estar justificando nuestra condición ante cualquier tipo de consulta de las autoridades. Para ir a recoger nuestros medicamentos debemos pasar varios retenes y controles, es incómodo tener que inventar excusas o tener que romper la confidencialidad para evitar problemas.
+Ante las personas que están en contra de la diversidad sexual, uno aprende a valorarse mejor, a defender sus derechos. También tengo mi cultura indígena y allí no todos tienen información de cómo es esto. ¿Qué es eso de la diversidad sexual? Muchos están en el clóset todavía porque tienen miedo a expresarse. La misma cultura logra discriminar. 
 
-Tarija es una ciudad pequeña y es difícil mantener el diagnóstico en reserva. Más aún con la cuarentena y con el riesgo que eso representa. Hay muchos compañeros que viven con el VIH, pero trabajan en primera línea, en farmacias, la municipalidad u otros sectores que no han parado sus actividades. Ninguno de ellos pudo acogerse al decreto que ordena que las personas con enfermedades crónicas o de base pueden cumplir con sus funciones mediante teletrabajo para no revelar su diagnóstico. Por suerte, en mi caso, en mi trabajo se comunicaron conmigo para decirme que no debo ir a trabajar, porque así lo establece la norma. 
+Cuando una persona en mi trabajo se dio cuenta de la situación que yo estaba viviendo, me cortaron en el trabajo. Cuando se dan cuenta de lo que uno es, le tienen miedo a uno, ya no se relacionan con uno. Gracias a Dios hay personas y expertos que nos están ayudando con los medicamentos porque muchas personas murieron antes por esto, cuando no había. Ya en este tiempo vemos que hay organizaciones y la clínica nos apoya para que nos lleguen los medicamentos. 
+
+Lo que estamos viviendo por la pandemia, con nuestro sistema económico tan bajo, hace que yo me esté preocupando por mi medicamento y tratamiento, buscando ganar mejor para poder ir a traerlo. Cuando empezó la cuarentena, obviamente no podía viajar por mi medicamento, porque no habían buses y pagar otros viajes salía muy caro, además, no nos dejan circular. Aún así los médicos han visto como mandar el medicamento a donde yo vivo. Se tarda, pero gracias a esto no me he quedado sin medicamentos. 
+
+En octubre tengo cita con el médico, pero por pobre y la economía no puedo viajar. Tal vez consiga un poco de dinero para ir La situación que estamos viviendo es difícil. A ver cómo vamos a salir de esto.
+

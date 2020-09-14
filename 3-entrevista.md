@@ -6,7 +6,9 @@ permalink: /entrevista/
 
 # “El VIH tendría que desaparecer el 2030 pero es una meta difícil para Guatemala”
 
-El diputado Aldo Dávila no esconde su estatus seropositivo. Fue también el primer candidato abiertamente *gay* en llegar a un cargo de elección popular en Guatemala. En esta entrevista, hace un recorrido —a través de su historia personal— por los cambios que en sus 18 años viviendo con el virus ha experimentado en las estrategias de atención y ensaya ideas sobre el futuro de la pandemia del VIH/sida.
+**_El diputado Aldo Dávila no esconde su estatus seropositivo. Fue también el primer candidato abiertamente *gay* en llegar a un cargo de elección popular en Guatemala. En esta entrevista, hace un recorrido —a través de su historia personal— por los cambios que en sus 18 años viviendo con el virus ha experimentado en las estrategias de atención y ensaya ideas sobre el futuro de la pandemia del VIH/sida._**
+
+*Por Daniel Villatoro • Septiembre 22, 2020* 
 
 {:.image-post}
 ![Foto: Carlos Sebastián/ Nómada.]({{ site.baseurl }}/assets/img/Carlos-sebastian.png)

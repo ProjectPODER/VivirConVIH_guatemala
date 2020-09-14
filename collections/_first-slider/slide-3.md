@@ -1,15 +1,14 @@
 ---
 title: Slide 3
-audio: WILMAR-MONTAÑO-SANTA CRUZ.mp3
 ---
 
-# Wilmar Montaño
-### Red de Hombres Gay y Bisexuales Positivos de Bolivia, Santa Cruz
+# Hombre Mam, 36 años.
 
-Vivo en el Plan Tres Mil, en Santa Cruz de la Sierra. Soy parte de la Red de Hombres Gay y Bisexuales Positivos de Bolivia. Durante el primer mes de confinamiento no había forma de ir hasta los centros para recoger nuestros medicamentos. Algunas personas vivimos en zonas alejadas y era imposible movilizarse con tantas restricciones, además de que corríamos el riesgo de contagiarnos con el coronavirus. Desde nuestras organizaciones nos organizamos y conseguimos que se dispongan algunos vehículos del Programa para VIH para la distribución de medicinas, pero no se puede llegar a todos los compañeros. 
+Fui diagnosticado el 19 de agosto del 2014. Aunque estaba siendo atendido por otros problemas de salud, era algo que no me lo esperaba. Fue difícil de asimilar, no se lo contaba a nadie por la reacción que pensé iban a tener algunas personas. Para poder tomar fuerzas y reducir el estrés que vivía al no poder decirle a nadie lo que estaba padeciendo, me aferré a mis hijos, al trabajo y no perdí de vista mi práctica religiosa.
 
-Tengo mucho miedo sobre lo que me pueda pasar en medio de la pandemia, no he salido de mi casa para nada. Soy portador del VIH, pero también tengo otras patologías, entonces me da un poquito de pánico salir. Gracias a Dios soy diseñador gráfico y trabajo desde casa. No es mucho lo que gano, pero sí estoy trabajando.
+Por situaciones laborales, en una ocasión tuve que contarles a mis superiores lo que estaba pasando en mi vida en esos momentos. Fui escuchado y hasta cierto punto sentí comprensión de su parte, pero un retiro espiritual fue lo que me ayudó más en la asimilación de lo que me estaba ocurriendo. Esa experiencia me permitió desahogarme y, gracias a ello, en su momento pude comunicarle a mi esposa lo que estaba pasando. 
 
-Nos hace falta alimentación. Es importante para toda la gente que vive con VIH estar bien alimentados para tener bien las defensas. Las canastas del gobierno que hemos recibido no aguantaron casi nada. No da para vivir tanto tiempo confinado con 500 bolivianos (unos 72 dólares al cambio). Mi mamá vende cenas en la noche y con eso nos estamos apoyando un poco. 
+Mi preocupación era grande porque estaba recién diagnosticado y mi esposa estaba embarazada. Antes del parto tuve que hablar con los médicos para que hicieran todo lo posible para que el parto no fuera de riesgo y les hicieran la prueba a mi esposa y a mi hijo. Felizmente, ambos salieron negativos y así se mantienen hasta la fecha.
 
-Hemos pedido a las autoridades que nos apoyen con canastas familiares, pero no nos respondieron. Hay compañeras y compañeros que son de escasos recursos y la están pasando muy mal porque no pueden trabajar.
+*Nota del editor. Esta persona no tiene audio porque no autorizó a que saliera su voz.*
+
