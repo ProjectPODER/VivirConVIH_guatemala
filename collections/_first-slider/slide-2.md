@@ -14,5 +14,5 @@ Cuando una persona en mi trabajo se dio cuenta de la situación que yo estaba vi
 
 Lo que estamos viviendo por la pandemia, con nuestro sistema económico tan bajo, hace que yo me esté preocupando por mi medicamento y tratamiento, buscando ganar mejor para poder ir a traerlo. Cuando empezó la cuarentena, obviamente no podía viajar por mi medicamento, porque no habían buses y pagar otros viajes salía muy caro, además, no nos dejan circular. Aún así los médicos han visto como mandar el medicamento a donde yo vivo. Se tarda, pero gracias a esto no me he quedado sin medicamentos. 
 
-En octubre tengo cita con el médico, pero por pobre y la economía no puedo viajar. Tal vez consiga un poco de dinero para ir La situación que estamos viviendo es difícil. A ver cómo vamos a salir de esto.
+En octubre tengo cita con el médico, pero  no puedo viajar debido a la falta de recursos. Tal vez consiga un poco de dinero para ir. La situación que estamos viviendo es difícil, a ver cómo vamos a salir de esto.
 
