@@ -23,7 +23,7 @@ description: >-
   Aunque el 43,89% de su población es indígena, el país no tiene una estrategia nacional de respuesta al VIH dirigida a los pueblos originarios y que considere la atención en idiomas maternos.
 
 # URL of your contracts file or API endpoint
-contracts_url: "https://landing.vivirconvih.org/assets/data/vih_bolivia.csv"
+contracts_url: "https://landing.vivirconvih.org/assets/data/vih_guatemala.csv"
 #contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
 
 
