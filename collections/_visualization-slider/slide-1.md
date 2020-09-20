@@ -3,6 +3,6 @@ title: Slide 1
 image: visualization-example.png
 ---
 
-# THIS IS THE FIRST SLIDE
+18.000 personas  viven con el Virus de la Inmunodeficiencia Humana en Guatemala. Aunque el 43,89% de su población es indígena, el país no tiene una estrategia nacional de respuesta al VIH dirigida a los pueblos originarios y que considere la atención en idiomas maternos.
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Entre 2017 y 2019 el Estado guatemalteco ha comprado medicamentos antirretrovirales por un valor de más de ocho millones de dólares con unos resultados más que discutibles: Guatemala es el país de América Latina  con más casos de VIH avanzado según ONUSida.
