@@ -7,4 +7,4 @@ Los laboratorios más beneficiados de esa mala planificación son: J.I. Cohen, C
 
 De haber respetado los precios de referencia, Guatemala hubiera ahorrado dos millones y medio de dólares que pudo haber usado en acciones para respetar el Derecho a la Salud de las personas que viven con VIH y en consecuencia de toda su población. 
 
-[VER INFORME COMPLETO]()
+[VER INFORME COMPLETO](https://vivirconvih.org/assets/informevivirconvih.pdf)
