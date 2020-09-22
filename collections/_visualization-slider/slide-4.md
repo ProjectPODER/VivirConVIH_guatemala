@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualizacion4.jpg
 ---
 
 Los laboratorios más beneficiados de esa mala planificación son: J.I. Cohen, Centro Distribuidor, Corporación Amicelo y Stendhal que recibieron el 82% de los contratos de compra local de antirretrovirales, un monto que supera los dos millones de dólares.
