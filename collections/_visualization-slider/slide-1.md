@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualizacion1.jpg
+image: visualizacion1.png
 ---
 
 18.000 personas  viven con el Virus de la Inmunodeficiencia Humana en Guatemala. Aunque el 43,89% de su población es indígena, el país no tiene una estrategia nacional de respuesta al VIH dirigida a los pueblos originarios y que considere la atención en idiomas maternos.
