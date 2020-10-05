@@ -7,6 +7,8 @@ author: "Daniel Villatoro"
 {:.image-post}
 ![Guatemala: la población indígena está expuesta al diagnóstico tardío del VIH]({{ site.baseurl }}/assets/img/GUATEMALA.jpg)
 
+Este reportaje también se publicó en [PlazaPública](https://plazapublica.com.gt/content/guatemala-la-poblacion-indigena-esta-expuesta-al-diagnostico-tardio-del-vih).
+
 Una carta anónima reveló hace unos meses el diagnóstico como VIH positivo de Valerio*, un joven indígena Q’anjob’al que vive en uno de los municipios más alejados de la Ciudad de Guatemala, cercano a la frontera con México. Esa carta se compartió en redes sociales junto a su foto y llegó hasta los diferentes espacios comunitarios en los que él participaba e incluso a la radio local.
  
 Valerio se enteró de que su estatus de portador del VIH era de escrutinio público cuando un locutor de esa radio le llamó para preguntarle al respecto. “Luego de esto me quise suicidar y salí del municipio donde vivía para trabajar lejos”, cuenta. Además de este episodio de acoso y discriminación, que se sumó a otras amenazas por su condición de seropositivo, tiene dificultades para acceder a su tratamiento con antirretrovirales. Cada tres meses debe viajar seis horas para recibir sus medicinas en el Hospital Regional Occidente, en Quetzaltenango. La falta de unidades de atención para personas con VIH en el centro de salud donde vive, lo obliga a realizar este viaje incluso ahora en la pandemia. 
